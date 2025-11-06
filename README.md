@@ -48,9 +48,6 @@ SmartCity-Vision
 
 └── imagens/ # Fotos da equipe e ícones
 
-yaml
-Copiar código
-
 ---
 
 ## Como Executar
