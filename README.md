@@ -34,12 +34,19 @@ O site combina **design moderno**, **animações futuristas**, **gráficos inter
 
 SmartCity-Vision/
 │
+
 ├── index.html # Página principal
+
 ├── style.css # Estilos customizados
+
 ├── script.js # Scripts JS (gráficos e partículas)
+
 ├── README.md # Documentação do projeto
+
 └── assets/
+
 ├── video.mp4 # Vídeo de fundo
+
 └── imagens/ # Fotos da equipe e ícones
 
 yaml
