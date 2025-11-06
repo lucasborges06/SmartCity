@@ -32,8 +32,7 @@ O site combina **design moderno**, **animações futuristas**, **gráficos inter
 
 ## Estrutura do Projeto
 
-SmartCity-Vision/
-│
+SmartCity-Vision
 
 ├── index.html # Página principal
 
