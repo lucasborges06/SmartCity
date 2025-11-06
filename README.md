@@ -42,7 +42,7 @@ SmartCity-Vision
 
 ├── README.md # Documentação do projeto
 
-└── assets/
+└── assets
 
 ├── video.mp4 # Vídeo de fundo
 
